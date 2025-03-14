@@ -1,0 +1,19 @@
+# avogadro generated ORCA input file 
+# Basic Mode
+# Molecular orbital of H2
+! BP OPT STO-3G
+! Normalprint
+%output
+Print[P_Basis]2
+Print[P_MOs]1
+end
+
+* xyz 0 1
+   C        1.02729        0.05659       -0.08163
+   C        2.35625        0.05659       -0.08163
+   H        0.48239        0.59123       -0.85286
+   H        0.48239       -0.47805        0.68960
+   H        2.90114        0.59123       -0.85286
+   H        2.90114       -0.47805        0.68960
+*
+

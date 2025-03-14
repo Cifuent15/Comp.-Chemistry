@@ -1,0 +1,202 @@
+-------------------------------------------------------------
+----------------------- !PROPERTIES! ------------------------
+-------------------------------------------------------------
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 1
+   prop. index: 1
+        SCF Energy:       -1.1632592833
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 1
+   prop. index: 1
+   Number of Alpha Electrons                  1.0000000392 
+   Number of Beta  Electrons                  1.0000000392 
+   Total number of  Electrons                 2.0000000783 
+   Exchange energy                           -0.6792125396 
+   Correlation energy                        -0.0473546578 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy               -0.7265671974 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)      -1.1632592833 
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 1
+   prop. index: 1
+     Number of atoms                     : 2
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 1
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     1.0000     1.0000     0.0000     1.0000     1.0000     0.0000
+  1   0     1.0000     1.0000     0.0000     1.0000     1.0000     0.0000
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             1               1            1                1.000000
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 2
+   prop. index: 1
+        SCF Energy:       -1.1634987988
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 2
+   prop. index: 1
+   Number of Alpha Electrons                  0.9999999821 
+   Number of Beta  Electrons                  0.9999999821 
+   Total number of  Electrons                 1.9999999641 
+   Exchange energy                           -0.6722934885 
+   Correlation energy                        -0.0470780926 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy               -0.7193715812 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)      -1.1634987988 
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 3
+   prop. index: 1
+        SCF Energy:       -1.1638874269
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 3
+   prop. index: 1
+   Number of Alpha Electrons                  0.9999999968 
+   Number of Beta  Electrons                  0.9999999968 
+   Total number of  Electrons                 1.9999999936 
+   Exchange energy                           -0.6751332077 
+   Correlation energy                        -0.0471975803 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy               -0.7223307880 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)      -1.1638874269 
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 4
+   prop. index: 1
+        SCF Energy:       -1.1638903215
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 4
+   prop. index: 1
+   Number of Alpha Electrons                  1.0000000001 
+   Number of Beta  Electrons                  1.0000000001 
+   Total number of  Electrons                 2.0000000001 
+   Exchange energy                           -0.6754161633 
+   Correlation energy                        -0.0472090270 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy               -0.7226251903 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)      -1.1638903215 
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 5
+   prop. index: 1
+        SCF Energy:       -1.1638903363
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 5
+   prop. index: 1
+   Number of Alpha Electrons                  0.9999999998 
+   Number of Beta  Electrons                  0.9999999998 
+   Total number of  Electrons                 1.9999999997 
+   Exchange energy                           -0.6753972306 
+   Correlation energy                        -0.0472082637 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy               -0.7226054943 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)      -1.1638903363 
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 5
+   prop. index: 1
+     Number of atoms                     : 2
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 1
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     1.0000     1.0000    -0.0000     1.0000     1.0000     0.0000
+  1   0     1.0000     1.0000     0.0000     1.0000     1.0000     0.0000
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             1               1            1                1.000000
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 5
+   prop. index: 1
+       Filename                          : hydrogen-molecule.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000000000
+        Electronic Contribution:
+                  0    
+      0       0.000000
+      1      -0.000000
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0      -0.000000
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0      -0.000000
+      1      -0.000000
+      2      -0.000000
+# -------------------------------------------------------------
+----------------------- !GEOMETRIES! ------------------------
+# -------------------------------------------------------------
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2 
+    Geometry Index:     1 
+    Coordinates:
+               0 H      2.323610000000   -0.245190000000   -0.016510000000
+               1 H      2.750930000000   -0.460810000000   -0.538210000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2 
+    Geometry Index:     2 
+    Coordinates:
+               0 H      2.308978980424   -0.237807381726    0.001352498626
+               1 H      2.765561019576   -0.468192618274   -0.556072498626
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2 
+    Geometry Index:     3 
+    Coordinates:
+               0 H      2.315050761616   -0.240871121922   -0.006060326067
+               1 H      2.759489238384   -0.465128878078   -0.548659673933
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2 
+    Geometry Index:     4 
+    Coordinates:
+               0 H      2.315650440959   -0.241173712158   -0.006792453543
+               1 H      2.758889559041   -0.464826287842   -0.547927546457
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2 
+    Geometry Index:     5 
+    Coordinates:
+               0 H      2.315610345129   -0.241153480335   -0.006743501951
+               1 H      2.758929654871   -0.464846519665   -0.547976498049

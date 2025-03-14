@@ -1,0 +1,15 @@
+# avogadro generated ORCA input file 
+# Basic Mode
+# Molecular orbital of H2
+! MP2 OPT def2-TZVPP
+! Normalprint
+%output
+Print[P_Basis]2
+Print[P_MOs]1
+end
+
+* xyz 0 1
+   H        1.07079       -0.03266        0.05724
+   H        1.77879       -0.03266        0.05724
+*
+
